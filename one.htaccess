@@ -1,0 +1,5 @@
+DirectoryIndex Home.php
+
+RewriteEngine on
+
+RewriteRule ^home?$ Home.php
